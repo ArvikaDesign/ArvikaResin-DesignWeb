@@ -1,31 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
   <url>
-    <loc>https://arvikaresin.in/</loc>
+    <loc>https://arvikaresin.com/</loc>
     <lastmod>2026-11-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+
     <image:image>
-      <image:loc>https://arvikaresin.in/img/hero_main.jpg</image:loc>
+      <image:loc>https://arvikaresin.com/img/hero_main.jpg</image:loc>
       <image:title>Arvika Resin and Design - Luxury Epoxy Flooring</image:title>
-      <image:caption>Bespoke ocean-teal metallic epoxy flooring with champagne gold veins in luxury residence</image:caption>
+      <image:caption>Bespoke ocean-teal metallic epoxy flooring with champagne gold veins</image:caption>
     </image:image>
+
     <image:image>
-      <image:loc>https://arvikaresin.in/img/service_metallic.jpg</image:loc>
+      <image:loc>https://arvikaresin.com/img/service_metallic.jpg</image:loc>
       <image:title>Metallic Epoxy Flooring Tamil Nadu</image:title>
     </image:image>
+
     <image:image>
-      <image:loc>https://arvikaresin.in/img/service_3d.jpg</image:loc>
+      <image:loc>https://arvikaresin.com/img/service_3d.jpg</image:loc>
       <image:title>3D Ocean Wave Epoxy Flooring</image:title>
     </image:image>
+
     <image:image>
-      <image:loc>https://arvikaresin.in/img/service_marble.jpg</image:loc>
+      <image:loc>https://arvikaresin.com/img/service_marble.jpg</image:loc>
       <image:title>Marble Finish Epoxy Flooring</image:title>
     </image:image>
+
     <image:image>
-      <image:loc>https://arvikaresin.in/img/product_river_table.jpg</image:loc>
+      <image:loc>https://arvikaresin.com/img/product_river_table.jpg</image:loc>
       <image:title>Live Edge Walnut Resin River Dining Table</image:title>
     </image:image>
+
   </url>
+
 </urlset>
